@@ -1,0 +1,3 @@
+- insert:
+    - id: ctrl-enter-send
+      name: "@local/dsh-ctrl-enter-send"

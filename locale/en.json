@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Ctrl+Enter to send",
+    "description": "Enter inserts a line break in the composer; Ctrl+Enter sends the message."
+  }
+}

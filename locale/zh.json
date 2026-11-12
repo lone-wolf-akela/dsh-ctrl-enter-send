@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Ctrl+Enter 发送",
+    "description": "消息输入框内按回车换行，按 Ctrl+Enter 发送消息。"
+  }
+}
